@@ -1,8 +1,8 @@
 CleanPress
 ==========
-CleanPress is an elegant, clean & white minimal and responsive theme for [Octopress](http://octopress.org). It's a fork from the OctoPress Slash Theme with substantial changes with work still to do.
+CleanPress is an elegant, clean & white minimal and responsive theme for [Octopress](http://octopress.org) and originally a fork of the OctoPress Slash Theme.
 
-Check out the theme in action [here](http://carmo.org.uk).
+Check out the theme in action [here](http://macjasp.github.io).
 
 
 Install
@@ -23,7 +23,7 @@ License
 -------
 (The MIT License)
 
-Copyright © 2013 carmo.org.uk
+Copyright © 2013 macjasp.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
